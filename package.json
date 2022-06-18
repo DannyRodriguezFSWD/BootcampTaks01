@@ -1,7 +1,7 @@
 {
   "name": "docker-mongo",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Primera tarea para el Bootcamp",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
