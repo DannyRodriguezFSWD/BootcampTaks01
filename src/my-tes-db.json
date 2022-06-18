@@ -1,0 +1,1 @@
+{  "_id": {    "$oid": "62ab7d806215f469a08a96db"  },  "message": "Hello",  "scope": "my-tes-db.json",  "host": "MyPC",  "date": {    "$date": {      "$numberLong": "1655359860000"    }  },  "location": "AMERICA/CRC",  "offset": "UTC-6"}
